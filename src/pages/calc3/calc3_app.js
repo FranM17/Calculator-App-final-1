@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import Boton from './boton';
-import { parseAndEvaluate } from './parser';
+import { parseAndEvaluate } from './parser3';
 import Animaciones from './Animaciones';
 import Audio from './Audio';
 import '../../App.css';

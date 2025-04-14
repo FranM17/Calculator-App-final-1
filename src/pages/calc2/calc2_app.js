@@ -1,6 +1,6 @@
 import { useState, useEffect} from 'react';
 import Boton from './boton';
-import { parseAndEvaluate } from './parser';
+import { parseAndEvaluate } from './parser2';
 import '../../App.css';
 
 function App() {
